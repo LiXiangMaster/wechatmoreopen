@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\ipay_account_common_btn_disable.xml",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_account_common_btn_disable.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\ipay_account_btn_disable.xml",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_account_btn_disable.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\ipay_account_common_btn_normal.xml",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_account_common_btn_normal.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\ipay_common_bg.xml",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_common_bg.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\ipay_account_common_btn_pressed.xml",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_account_common_btn_pressed.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\ipay_account_btn_normal.xml",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_account_btn_normal.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\ipay_common_btn_pressed.xml",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_common_btn_pressed.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\ipay_common_btn_normal.xml",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_common_btn_normal.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\ipay_common_btn_disable.xml",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_common_btn_disable.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\ipay_account_btn_pressed.xml",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_account_btn_pressed.xml"
+    }
+]

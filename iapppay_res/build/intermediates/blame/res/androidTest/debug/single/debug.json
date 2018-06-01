@@ -1,0 +1,910 @@
+[
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_oneclickpay_wheel_val.9.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_oneclickpay_wheel_val.9.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_oneclick_common_web_layout.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_oneclick_common_web_layout.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_title_bar_normal.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_title_bar_normal.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_sh_bank_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_sh_bank_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_sms_sim_indicator.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_sms_sim_indicator.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_sms_ic_back_dark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_sms_ic_back_dark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_sms_dialog_notify_success.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_sms_dialog_notify_success.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_bank_card_item.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_bank_card_item.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_title_bar_activity.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_title_bar_activity.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_fillet_border_color_8_2.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_fillet_border_color_8_2.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_icon_paytype_weixin.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_icon_paytype_weixin.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_ui_confirm_pressed.9.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_ui_confirm_pressed.9.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_ui_confirm_disable.9.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_ui_confirm_disable.9.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_ipay_account_btn_pressed.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_account_btn_pressed.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_ui_right_arrow.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_ui_right_arrow.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_pay_hub_layout_h.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_pay_hub_layout_h.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_payeco_keyboard_btn_selector.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\payeco_keyboard_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_pay_hub_mini_layout.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_pay_hub_mini_layout.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_pay_hub_layout_v.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_pay_hub_layout_v.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_bj_bank_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_bj_bank_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_oneclick_common_tip_layout.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_oneclick_common_tip_layout.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_account_checkbox_selector.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_account_checkbox_selector.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_blue_bg.9.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_blue_bg.9.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_payeco_plugin_btnright_selector.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\payeco_plugin_btnright_selector.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_btn_bg_left_back.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_btn_bg_left_back.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_oneclickpay_layout_input_card_info.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_oneclickpay_layout_input_card_info.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_zgrm_bank_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_zgrm_bank_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_ny_bank_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_ny_bank_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_payeco_plugin_hxkeyboard.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\payeco_plugin_hxkeyboard.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_oneclickpay_bg_clear_selector.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_oneclickpay_bg_clear_selector.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_account_common_input.9.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_account_common_input.9.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_ad_close.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_ad_close.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_zs_bank_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_zs_bank_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_oneclick_dialog_bg.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_oneclick_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_account_webview_layout.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_account_webview_layout.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_zs_bank_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_zs_bank_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_pay_hub_iapppay_layout.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_pay_hub_iapppay_layout.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_gf_bank_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_gf_bank_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_js_bank_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_js_bank_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_gf_bank_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_gf_bank_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_payeco_plugin_credit_keyboard_land.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\payeco_plugin_credit_keyboard_land.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_payeco_plugin_wait_dialog.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\payeco_plugin_wait_dialog.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_common_webview_layout.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_common_webview_layout.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_bg_fastpay_phone.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_bg_fastpay_phone.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_sms_btn_nor.9.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_sms_btn_nor.9.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_ui_confirm_normal.9.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_ui_confirm_normal.9.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_account_bind_item.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_account_bind_item.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_hf_bank_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_hf_bank_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_gd_bank_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_gd_bank_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_common_btn_bg_color.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_common_btn_bg_color.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_sms_btn_back_selector.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_sms_btn_back_selector.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_account_bind_layout.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_account_bind_layout.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_gd_bank_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_gd_bank_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_payeco_stand_digtselector.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\payeco_stand_digtselector.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_sms_loading_bg.9.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_sms_loading_bg.9.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_loading_img.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_loading_img.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_pay_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_pay_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_payeco_plugin_btnleft_selector.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\payeco_plugin_btnleft_selector.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_list_item_selector.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_list_item_selector.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_ui_icon_to_right.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_ui_icon_to_right.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_oneclick_input_normal_bg.9.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_oneclick_input_normal_bg.9.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_payeco_radiu_dialog.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\payeco_radiu_dialog.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_payeco_unionpay_logo.9.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\payeco_unionpay_logo.9.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_default_bank_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_default_bank_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_text_item.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_text_item.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_icon_paytype_fastpay.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_icon_paytype_fastpay.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_ipay_account_common_btn_pressed.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_account_common_btn_pressed.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_oneclick_confrim_selector.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_oneclick_confrim_selector.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_oneclick_input_forced_bg.9.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_oneclick_input_forced_bg.9.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_oneclick_input_bg.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_oneclick_input_bg.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_btn_bank_card_selector.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_btn_bank_card_selector.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_sf_bank_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_sf_bank_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_ms_bank_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_ms_bank_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_payeco_plugin_topicon.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\payeco_plugin_topicon.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_common_checkbox_selector.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_common_checkbox_selector.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_common_radio_btn_selector.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_common_radio_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_bg.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_bg.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_payeco_plugin_spinner_selector.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\payeco_plugin_spinner_selector.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_common_input.9.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_common_input.9.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_loading_dialog.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_loading_dialog.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_zx_bank_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_zx_bank_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_account_btn_bg_color.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_account_btn_bg_color.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_payeco_plugin_keyboard.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\payeco_plugin_keyboard.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_account_checkbox_pressed.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_account_checkbox_pressed.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_icon_paytype_baidu.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_icon_paytype_baidu.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_ms_bank_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_ms_bank_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_oneclick_scrollbar.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_oneclick_scrollbar.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_title_bar_mini.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_title_bar_mini.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_account_common_btn_text_color.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_account_common_btn_text_color.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_oneclickpay_layout_input_verificode.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_oneclickpay_layout_input_verificode.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_bg_fastpay_validity.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_bg_fastpay_validity.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_default_bank_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_default_bank_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_account_ui_common_tip_layout.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_account_ui_common_tip_layout.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_pay_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_pay_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_listview_item_selector.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_listview_item_selector.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_oneclickpay_layout_date_view.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_oneclickpay_layout_date_view.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_select_amount_layout.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_select_amount_layout.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_checkbox_selector.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_checkbox_selector.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_ny_bank_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_ny_bank_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_zgrm_bank_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_zgrm_bank_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_account_regist_modify_password.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_account_regist_modify_password.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_purple_bg.9.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_purple_bg.9.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_gs_bank_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_gs_bank_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_sms_dialog_pay.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_sms_dialog_pay.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_layout_common_single_dialog.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_layout_common_single_dialog.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_icon_paytype_phonecard.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_icon_paytype_phonecard.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_sms_btn_selector.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_sms_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_payeco_keyboard_toast_bg.9.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\payeco_keyboard_toast_bg.9.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_pf_bank_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_pf_bank_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_ui_del_pressed.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_ui_del_pressed.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_pay_type_item.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_pay_type_item.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_checkbox_normal.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_checkbox_normal.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_icon_paytype_phonebalance.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_icon_paytype_phonebalance.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_ui_del_normal.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_ui_del_normal.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_pf_bank_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_pf_bank_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_border_style.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_border_style.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_oneclick_back_normal.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_oneclick_back_normal.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_payeco_plugin_spinner_bg.9.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\payeco_plugin_spinner_bg.9.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_sms_ic_back.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_sms_ic_back.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_icon_paytype_unionpay.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_icon_paytype_unionpay.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_btn_bg_orange.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_btn_bg_orange.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_ipay_account_btn_normal.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_account_btn_normal.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_small_value_layout.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_small_value_layout.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_icon_paytype_aibeibi.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_icon_paytype_aibeibi.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_ui_radio_group_off.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_ui_radio_group_off.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_red_bg.9.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_red_bg.9.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_bg_fastpay_cvv2.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_bg_fastpay_cvv2.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_zg_bank_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_zg_bank_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_list_widget_item_bg.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_list_widget_item_bg.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_payeco_plugin_record.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\payeco_plugin_record.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_xy_bank_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_xy_bank_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_js_bank_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_js_bank_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_small_password_layout.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_small_password_layout.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_zx_bnak_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_zx_bnak_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_common_tip_layout.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_common_tip_layout.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_icon_paytype_gamecard.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_icon_paytype_gamecard.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_oneclick_doubt_bg.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_oneclick_doubt_bg.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_sh_bank_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_sh_bank_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_account_checkbox_normal.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_account_checkbox_normal.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_payeco_keyboard_red_bg.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\payeco_keyboard_red_bg.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_service_center_layout.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_service_center_layout.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_loading.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_loading.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_ui_close_circle.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_ui_close_circle.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_charge_layout.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_charge_layout.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_dropdown_bg.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_dropdown_bg.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_list_widget.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_list_widget.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_ui_more.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_ui_more.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_oneclick_common_line_layout.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_oneclick_common_line_layout.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_oneclick_common_bank_info_show_layout.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_oneclick_common_bank_info_show_layout.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_payeco_plugin_spinner_bg_on.9.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\payeco_plugin_spinner_bg_on.9.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_btn_radio_selected.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_btn_radio_selected.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_modify_password_layout.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_modify_password_layout.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_account_common_input_layout.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_account_common_input_layout.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_dialog_close.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_dialog_close.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_ipay_common_btn_pressed.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_common_btn_pressed.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_ipay_account_common_btn_normal.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_account_common_btn_normal.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_bj_bank_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_bj_bank_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_icon_paytype_alipay.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_icon_paytype_alipay.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_zgyz_bank_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_zgyz_bank_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_gs_bnak_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_gs_bnak_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_layout_common_single_dialog_item.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_layout_common_single_dialog_item.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_ipay_common_btn_normal.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_common_btn_normal.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_green_bg.9.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_green_bg.9.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_zg_bank_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_zg_bank_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_payeco_plugin_vedio.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\payeco_plugin_vedio.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_ipay_common_bg.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_common_bg.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_common_btn_text_color.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_common_btn_text_color.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_sf_bank_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_sf_bank_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_jt_bank_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_jt_bank_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_list_item_selector_white.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_list_item_selector_white.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_payeco_plugin_back.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\payeco_plugin_back.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_gzsy_bank_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_gzsy_bank_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_account_btn_clear.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_account_btn_clear.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_btn_bg_orange2.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_btn_bg_orange2.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_bank_card_layout.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_bank_card_layout.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_account_login_h.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_account_login_h.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_payeco_plugin_spinner_itme.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\payeco_plugin_spinner_itme.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_sms_dialog_error_tips.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_sms_dialog_error_tips.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_icon_paytype_tenpay.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_icon_paytype_tenpay.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_select_amount_item.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_select_amount_item.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_ui_notice.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_ui_notice.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_checkbox_pressed.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_checkbox_pressed.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_zgyz_bank_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_zgyz_bank_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_sub_game_pay_v.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_sub_game_pay_v.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_account_common_back_normal.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_account_common_back_normal.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_payeco_plugin_editbg.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\payeco_plugin_editbg.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_gzsy_bank_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_gzsy_bank_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_account_common_btn_bg_color.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_account_common_btn_bg_color.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_account_scrollbar.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_account_scrollbar.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_payeco_plugin_credit_keyboard.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\payeco_plugin_credit_keyboard.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_ui_radio_group_on.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_ui_radio_group_on.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_sms_btn_disable.9.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_sms_btn_disable.9.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_hx_bank_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_hx_bank_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_sub_game_pay_title_bar.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_sub_game_pay_title_bar.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_account_ui_title_bar_activity.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_account_ui_title_bar_activity.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_payeco_btnenable.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\payeco_btnenable.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_btn_radio_normal.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_btn_radio_normal.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_hx_bank_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_hx_bank_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_payeco_plugin_keyboard_land.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\payeco_plugin_keyboard_land.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_sms_btn_pressed.9.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_sms_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_fillet_bg_color_7.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_fillet_bg_color_7.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_orange_bg.9.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_orange_bg.9.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_payeco_plugin_hxkeyboard_land.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\payeco_plugin_hxkeyboard_land.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_layout_common_alert_dialog.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_layout_common_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_btn_clear.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_btn_clear.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_payeco_stand_btnselector.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\payeco_stand_btnselector.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_ui_scrollbar.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_ui_scrollbar.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_payeco_plugin_bomarr.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\payeco_plugin_bomarr.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_jt_bank_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_jt_bank_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_common_back_normal.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_common_back_normal.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_ipay_account_common_btn_disable.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_account_common_btn_disable.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_hf_bank_logo.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_hf_bank_logo.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_sub_game_dropdown.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_sub_game_dropdown.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_ipay_account_btn_disable.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_account_btn_disable.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_payeco_plugin_rightarr.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\payeco_plugin_rightarr.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ipay_scrollbar.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ipay_scrollbar.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_ui_charge_type_item.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_charge_type_item.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_sub_game_pay_common_layout.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_sub_game_pay_common_layout.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_oneclick_common_bank_info_collect_layout.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_oneclick_common_bank_info_collect_layout.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_account_ui_back_selector.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_account_ui_back_selector.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_xy_bank_watermark.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_xy_bank_watermark.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_payeco_plugin_progressbar.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\payeco_plugin_progressbar.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ipay_ui_button_add.png.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ipay_ui_button_add.png"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_sms_tab_shape_corner.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_sms_tab_shape_corner.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_ipay_common_btn_disable.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_common_btn_disable.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_ipay_oneclickpay_layout_input_card_no.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_oneclickpay_layout_input_card_no.xml"
+    },
+    {
+        "merged": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ipay_ui_back_selector.xml.flat",
+        "source": "E:\\develop\\project\\moreopenwork03\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_ui_back_selector.xml"
+    }
+]

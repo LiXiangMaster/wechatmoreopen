@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\develop\project\moreopenwork03\iapppay_res\src\main\assets"/><source path="E:\develop\project\moreopenwork03\iapppay_res\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="E:\develop\project\moreopenwork03\iapppay_res\src\release\assets"/></dataSet></merger>

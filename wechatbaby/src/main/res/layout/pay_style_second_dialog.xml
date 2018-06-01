@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:background="@drawable/pay_money_shape"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_marginTop="27dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_centerInParent="true"
+            android:textColor="#282828"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="请先付款"
+            android:textSize="20sp"/>
+        <ImageView
+            android:id="@+id/iv_close_pay_dialog"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="19dp"
+            android:layout_alignParentRight="true"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/closedialog"
+            />
+    </RelativeLayout>
+
+
+    <Button
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="22dp"
+        android:id="@+id/bt_weixin_pay"
+        android:padding="10dp"
+        android:background="@drawable/pay_style_btleft_shape"
+        android:textColor="#fff"
+        android:text="微信支付"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:layout_marginBottom="29dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="11dp"
+        android:id="@+id/bt_zhifubao_pay"
+        android:padding="10dp"
+        android:background="@drawable/pay_style_btright_shape"
+        android:textColor="#fff"
+        android:text="支付宝支付"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

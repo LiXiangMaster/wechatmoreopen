@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:background="@drawable/no_withdraw_shape"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_marginTop="18dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_marginTop="8dp"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#282828"
+            android:textSize="19sp"
+            android:text="不能提现"
+            />
+        <ImageView
+            android:id="@+id/iv_close_yes"
+            android:layout_marginRight="19dp"
+            android:layout_alignParentRight="true"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/closedialog"
+            />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_marginTop="21dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="至少需要30元才能提现哦"
+        android:textColor="#f00"
+        android:textSize="12sp"
+        />
+    <TextView
+        android:id="@+id/yes_iknow"
+        android:layout_marginBottom="29dp"
+        android:layout_marginTop="21dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:background="@drawable/yes_iknow_shape"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="好的我知道了"
+        android:textColor="#fff"
+        android:textSize="12sp"
+        />
+
+</LinearLayout>

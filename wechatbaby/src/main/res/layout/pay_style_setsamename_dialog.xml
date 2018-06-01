@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:gravity="center_horizontal"
+              android:background="@drawable/setsame_name_shape"
+              android:orientation="vertical">
+    <RelativeLayout
+        android:layout_marginTop="27dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="28dp"
+            android:text="给分身取个名字"
+            android:textColor="#282828"
+            android:textSize="19sp"/>
+        <ImageView
+            android:id="@+id/iv_close_setName"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="15dp"
+            android:layout_alignParentRight="true"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/closedialog"
+            />
+
+    </RelativeLayout>
+
+
+
+    <EditText
+        android:id="@+id/tv_setname_tip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="22dp"
+        android:background="@drawable/et_sameapp_shape"
+        android:hint="私人微信(小号)"
+        android:textColorHint="#333333"
+        android:padding="@dimen/common_dp"
+        android:textSize="16sp"/>
+
+    <Button
+        android:id="@+id/bt_paystyle_zhifubao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="29dp"
+        android:layout_marginTop="11dp"
+        android:background="@drawable/pay_style_btright_shape"
+        android:padding="10dp"
+        android:text="确定制作"
+        android:textColor="#fff"
+        android:textSize="16sp"/>
+</LinearLayout>

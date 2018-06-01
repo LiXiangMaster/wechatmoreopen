@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp"
+        android:layout_width="269dp"
+        android:layout_height="307dp"
+        android:orientation="vertical"
+        android:background="@drawable/bg_red_packet"
+        >
+
+        <ImageView
+            android:layout_marginTop="25dp"
+            android:id="@+id/open_red_packet"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/red_packet_open">
+        </ImageView>
+        <TextView
+            android:layout_marginTop="18dp"
+            android:textSize="17sp"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#fff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="每天拆红包,最高10元"
+            />
+
+        <TextView
+            android:background="@drawable/packet_tv_bg_shape"
+            android:gravity="center"
+            android:textColor="#e66012"
+            android:textSize="18sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="22dp"
+            android:id="@+id/share_and_open_redpacket"
+            android:layout_marginBottom="29dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="分享并拆红包"
+            />
+        <TextView
+            android:textSize="12sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFC01"
+            android:text="分享后马上返回,红包自动拆开"
+            />
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/iv_open_packet_close"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/open_packet_close"
+        android:layout_gravity="top|right"
+        />
+
+</FrameLayout>

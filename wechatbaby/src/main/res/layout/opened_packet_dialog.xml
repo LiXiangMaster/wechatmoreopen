@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="307dp"
+        android:layout_height="311dp"
+        android:background="@drawable/opened_packet"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="129dp"
+            android:text="今日已签,明日再来"
+            android:textColor="#fff"
+            android:textSize="17sp"
+            />
+
+        <TextView
+            android:id="@+id/tv_close_today_opended"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="45dp"
+            android:layout_marginTop="32dp"
+            android:background="@drawable/tv_havegoods_packet_shape"
+            android:gravity="center"
+            android:text="好的, 我知道了"
+            android:textColor="#851e18"
+            android:textSize="17sp"
+            />
+
+        <RelativeLayout
+            android:layout_marginBottom="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/tv_last_money"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:text="余额: "
+                android:textColor="#fff"
+                android:textSize="15sp"
+                />
+
+            <TextView
+                android:id="@+id/tv_opened_packet"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_toRightOf="@id/tv_last_money"
+                android:text="13.25元"
+                android:textColor="#ffe327"
+                android:textSize="15sp"
+                />
+
+            <TextView
+                android:id="@+id/tv_record_dialog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="88dp"
+                android:background="@drawable/tv_record_dialog_shape"
+                android:gravity="center"
+                android:text="明细"
+                android:textColor="#fff"
+                android:textSize="13sp"
+                />
+
+            <TextView
+                android:id="@+id/tv_withdraw_dialog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/tv_withdraw_dialog_shape"
+                android:gravity="center"
+                android:text="提现"
+                android:textColor="#e82a34"
+                android:textSize="13sp"
+                />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+</FrameLayout>

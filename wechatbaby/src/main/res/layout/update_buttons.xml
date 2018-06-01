@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="center_horizontal"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    >
+    <Button
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:id="@+id/btn_no"
+        android:layout_height="45dp"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:textSize="15sp"
+        android:textColor="#888888"
+        android:text="取消"
+        android:background="@drawable/dialog_bt_cancel_selector"
+        />
+    <Button
+        android:layout_marginLeft="10dp"
+        android:gravity="center"
+        android:id="@+id/btn_yes"
+        android:layout_height="45dp"
+        android:textColor="#ffffff"
+        android:textSize="15sp"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:text="立刻升级"
+        android:background="@drawable/dialog_bt_ok_selector"
+        />
+</LinearLayout>

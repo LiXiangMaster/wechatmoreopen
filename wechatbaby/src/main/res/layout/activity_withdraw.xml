@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#fff"
+              android:orientation="vertical"
+              android:fitsSystemWindows="true">
+
+    <include layout="@layout/header"></include>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="11dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="24dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="提现说明: "
+            android:textColor="#FF7A1C"
+            android:textSize="14sp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="支付宝账号,姓名务必填写正确,提现后1-2"
+            android:textColor="#404040"
+            android:textSize="14sp"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:text="个工作日内到账,如有疑问请咨询客服。"
+        android:textColor="#404040"
+        android:textSize="14sp"
+        />
+
+    <LinearLayout
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:id="@+id/tv_money"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="账户余额: "
+            android:textSize="15sp"
+            />
+        <TextView
+            android:id="@+id/tv_accout_money"
+            android:layout_marginLeft="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FF7A1C"
+            android:text="0元: "
+            android:textSize="15sp"
+            />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/et_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="9dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="21dp"
+        android:background="@drawable/et_withdraw_shape"
+        android:hint="真实姓名"
+        android:singleLine="true"
+        android:textSize="13sp"
+        />
+
+    <EditText
+        android:textSize="13sp"
+        android:id="@+id/et_input_num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="9dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/et_withdraw_shape"
+        android:hint="输入支付宝账号"
+        />
+
+    <EditText
+        android:textSize="13sp"
+        android:id="@+id/et_input_money"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="9dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/et_withdraw_shape"
+        android:hint="输入提现金额,最低30元"
+        />
+
+
+    <TextView
+        android:id="@+id/tv_withdraw_to_zhifubao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="19dp"
+        android:background="@drawable/withdraw_tv_bg_shape"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="提现到支付宝"
+        android:textColor="#fff"
+        android:textSize="16sp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:id="@+id/tv_withdraw_record"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="查看提现记录"
+            android:textColor="#404040"
+            android:textSize="14sp"
+            />
+
+        <View
+            android:layout_width="85dp"
+            android:layout_height="1dp"
+            android:layout_gravity="center_horizontal"
+            android:background="#000">
+        </View>
+    </LinearLayout>
+
+</LinearLayout>
